@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.conteudo-principal{
+  flex-grow: 3;
+}
+#btn-adicionar{
+  margin-top:1%;
+}

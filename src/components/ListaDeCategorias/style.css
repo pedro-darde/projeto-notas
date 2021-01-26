@@ -1,0 +1,22 @@
+#input-categoria {
+  width: 89%;
+  margin-right: 20px;
+}
+#div-input {
+  margin-top: 2%;
+}
+
+#categorias-div {
+  margin-top: 2%;
+}
+
+.list-group-categorias {
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 0.5em;
+    }
+
+.list-group-categorias-item {
+  padding: 0.5em;
+  text-align: center;
+}
